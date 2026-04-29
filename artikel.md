@@ -1,6 +1,6 @@
 # What is Anthropic's Claude Mythos and what risks does it pose?
 
-16 hours ago
+16 hours ago 
 
 Liv McMahon,Technology reporterand
 

@@ -31,7 +31,7 @@ def kl_divergence_flow(query, document):
     kl_total = 0.0
     
     data = []
-    
+        
     # hitung KL Divergence
     for word in p.keys():
        p_word = p.get(word, epsilon)
